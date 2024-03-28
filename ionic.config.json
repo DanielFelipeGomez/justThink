@@ -1,0 +1,7 @@
+{
+  "name": "justThink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
